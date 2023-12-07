@@ -4,7 +4,9 @@
 PayPatrol
  
  ## Current Version
- 
+ ![Employee Clock In/Out](./highres.gif)
+ ![Manager Employee Dashboard](./pic2.png)
+ ![Manager Employee Weekly Calendar](./pic1.png)
  
 
 ## Overview
