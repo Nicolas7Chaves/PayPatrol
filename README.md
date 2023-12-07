@@ -4,8 +4,16 @@
 PayPatrol
  
  ## Current Version
+ ### Employee Clock In or Out
+ This section provides employees with the capability to conveniently clock in/out using their unique QR Employee Badges.
  ![Employee Clock In/Out](./highres.gif)
+
+### Manager Employee Dashboard
+The Manager Employee Dashboard offers real-time oversight of employee attendance and provides access to employee information. Managers can easily edit, delete, or add new employees on the fly.
  ![Manager Employee Dashboard](./pic2.png)
+
+ ### Manager Weekly Calendar Dashboard
+The Manager Weekly Calendar Dashboard displays daily work hours, calculates the total weekly hours, and determines payment based on the hourly rate and total hours worked.
  ![Manager Employee Weekly Calendar](./pic1.png)
  
 
